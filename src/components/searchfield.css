@@ -1,0 +1,24 @@
+.body {
+  font-family: "Fjalla One", sans-serif;
+}
+.input {
+  width: 70%;
+  margin: 40px auto;
+}
+.input label {
+  font-weight: bold;
+  font-size: 35px;
+}
+.input input {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  border-radius: 50px;
+  background-color: transparent;
+  border: 2px solid rgb(0, 0, 0);
+  margin: 10px auto;
+  font-size: 15px;
+}
+.input input:focus {
+  outline: none;
+}
